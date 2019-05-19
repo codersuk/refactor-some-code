@@ -5,9 +5,10 @@ This repository is providing the basic a peice of code running in your new workp
 Good question the person nicely left behind no documentation or business requirements...
 
 # Now the business wants to change the code.
-The business would like to take this project which has been working as part of a lambda function in AWS for 6 months and expand its purpose. BUt you say, we can't add more because its miss..... what is it missing that you need to refactor it?
+The business would like to take this project which has been working as part of a lambda function in AWS for 6 months and expand its purpose. BUt you say, we can't add more because its missing..... <what is it missing that you need to refactor it>?
 
 # What will they need once this code is part of an API?
+Will it be fit for purpose and will you know whats happening in production in real time to your system?
 
 # Why would we do this exercise?
 We focus a lot as developers of creating new code that we know everything in, however a rather large part of it is reworking others work - always for a purpose.
